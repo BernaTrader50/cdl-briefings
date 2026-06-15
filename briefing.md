@@ -1,5 +1,5 @@
-# CDL Daily Briefing — 2026-06-11
-Generated: 11:16 UTC
+# CDL Daily Briefing — 2026-06-15
+Generated: 08:26 UTC
 
 ## Market Intel
 # Market Intelligence Report — 2026-06-11
@@ -14,16 +14,16 @@ Generated: 11:16 UTC
 | Anker SOLIX F3800 | B0C6XKH4Z9 | [Buy](https://www.amazon.com/dp/B0C6XKH4Z9?tag=clickdecision-20) |
 
 ## Product
-# Product Validator Report — 2026-06-11
+# Product Validator Report — 2026-06-15
 ## Dataset
-- Total products: 97 across 20 brands
-- Valid records: 0/97
-- Score completeness: 97/97 (100%)
+- Total products: 100 across 20 brands
+- Valid records: 100/100
+- Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 29/35 links OK
-- Errors: 6
+- Verified: 13/15 links OK
+- Errors: 2
 - Timeouts: 0
-## Broken Links (6)
+## Broken Links (2)
 
 ## Content
 # Content Agent Report — 2026-06-04
@@ -35,38 +35,38 @@ Generated: 11:16 UTC
 - Already exists: 15
 
 ## Operations
-# Operations Report — 2026-06-11 11:16
+# Operations Report — 2026-06-15 08:26
 ## Summary
 - Checked: 11 URLs
 - Healthy: 11/11
 - Failed: 0
-- Avg response: 335ms
+- Avg response: 319ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 397ms |
+| ✅ Homepage | 200 | 248ms |
 
 ## SEO & Traffic
-# SEO & Traffic Report — 2026-06-08
-## Site Status
-- Published articles: ?
-- Sitemap URLs: 123 (HTTP 200)
-- Sitemap: https://clickdecisionlab.com/cdl-sitemap.xml
-## Target Keywords (Solar Generators)
-High priority — check GSC weekly:
-| Keyword | Intent | Page |
-|---|---|---|
-| solar generator ups | Commercial | /ups-database |
+# SEO & Traffic Report — 2026-06-15
+## Signals Analyzed: 4
+## Autonomous Actions Taken (0)
+None — Claude API not available, manual review needed
+## New Content Signals → Content Agent (0)
+None
+## Top Keywords
+- solar generator for cpap: 19 impressions, pos 23.6
+- best solar generator for cpap camping: 2 impressions, pos None
+- generator for chest freezer: 1 impressions, pos None
 
 ## Strategy
-# CDL Strategy Report — 2026-06-11
+# CDL Strategy Report — 2026-06-15
+## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 Allpowers|R2500 → Awin base link (Allpowers homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Allpowers|S2000 Pro → Awin base link (Allpowers homepage, product not found in sitemap)
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
-| Products | 97 | 100 | ⚠️ |
+| Products | 100 | 100 | ✅ |
 | Brands | 20 | 20 | ✅ |
 | Score completeness | 100% | 95% | ✅ |
-## Actions Required (1)
-- ⚠️ Dataset: 97/100 — add 3 more
-## Agent Status
 
