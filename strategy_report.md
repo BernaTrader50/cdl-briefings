@@ -18,7 +18,7 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 11/11 URLs (319ms)
+- Operations: ✅ 11/11 URLs (349ms)
 - SEO: ✅
 
 ## Weekly Coverage Report
