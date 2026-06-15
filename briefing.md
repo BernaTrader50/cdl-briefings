@@ -1,5 +1,5 @@
 # CDL Daily Briefing — 2026-06-15
-Generated: 08:26 UTC
+Generated: 12:55 UTC
 
 ## Market Intel
 # Market Intelligence Report — 2026-06-11
@@ -35,16 +35,16 @@ Generated: 08:26 UTC
 - Already exists: 15
 
 ## Operations
-# Operations Report — 2026-06-15 08:26
+# Operations Report — 2026-06-15 12:55
 ## Summary
 - Checked: 11 URLs
 - Healthy: 11/11
 - Failed: 0
-- Avg response: 319ms
+- Avg response: 349ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 248ms |
+| ✅ Homepage | 200 | 329ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
