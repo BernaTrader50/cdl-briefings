@@ -1,5 +1,5 @@
 # CDL Daily Briefing — 2026-06-15
-Generated: 19:07 UTC
+Generated: 19:11 UTC
 
 ## Market Intel
 # Market Intelligence Report — 2026-06-15
@@ -22,28 +22,28 @@ None
 ## Broken Links (2)
 
 ## Content
-# Content Report — 2026-06-15 19:07
+# Content Report — 2026-06-15 19:10
 ## Solar Generators
-- ✅ [530] Solar Generator Watt Hours Explained: What It Really Me
-- ✅ [531] Best Solar Generator for Whole Home Backup 2026
-- ✅ [532] Solar Generator vs Powerwall: Which Is Right for You?
-Published this run: 3
+- ⏭️  solar-generator-watt-hours-explained (exists)
+- ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
+- ⏭️  solar-generator-vs-powerwall-home (exists)
+Published this run: 0
 ## EV Chargers
-- ✅ [533] How Much Does It Cost to Charge an EV at Home?
-- ✅ [534] Level 1 vs Level 2 vs DC Fast Charging: Complete Guide
-Published this run: 2
+- ⏭️  how-much-cost-charge-ev-home (exists)
+- ⏭️  level-1-vs-level-2-vs-dc-fast-charging (exists)
+Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-15 19:07
+# Operations Report — 2026-06-15 19:10
 ## Summary
 - Checked: 11 URLs
-- Healthy: 11/11
-- Failed: 0
-- Avg response: 136ms
+- Healthy: 10/11
+- Failed: 1
+- Avg response: 155ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 264ms |
+| ✅ Homepage | 200 | 254ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
