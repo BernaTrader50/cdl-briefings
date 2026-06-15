@@ -1,17 +1,13 @@
 # CDL Daily Briefing — 2026-06-15
-Generated: 12:55 UTC
+Generated: 19:07 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-06-11
-## Watchlist (9 products)
-| Product | ASIN | Amazon Link |
-|---|---|---|
-| EcoFlow DELTA 3 Max | B0CW1BFHYJ | [Buy](https://www.amazon.com/dp/B0CW1BFHYJ?tag=clickdecision-20) |
-| EcoFlow DELTA Pro | B095D2N4J1 | [Buy](https://www.amazon.com/dp/B095D2N4J1?tag=clickdecision-20) |
-| Jackery Explorer 2000 Plus | B0C8BGFMDH | [Buy](https://www.amazon.com/dp/B0C8BGFMDH?tag=clickdecision-20) |
-| Jackery Explorer 1000 v2 | B0C4CKB7S8 | [Buy](https://www.amazon.com/dp/B0C4CKB7S8?tag=clickdecision-20) |
-| Bluetti AC200L | B0BW2QW3YJ | [Buy](https://www.amazon.com/dp/B0BW2QW3YJ?tag=clickdecision-20) |
-| Anker SOLIX F3800 | B0C6XKH4Z9 | [Buy](https://www.amazon.com/dp/B0C6XKH4Z9?tag=clickdecision-20) |
+# Market Intelligence Report — 2026-06-15
+## Products Monitored: 9
+## Price Changes Detected (≥10%): 0
+None
+## Autonomous Flags (0)
+None
 
 ## Product
 # Product Validator Report — 2026-06-15
@@ -26,25 +22,28 @@ Generated: 12:55 UTC
 ## Broken Links (2)
 
 ## Content
-# Content Agent Report — 2026-06-04
-## Solar Generators: 0 published
-## EV Chargers: 0 published
-## Home Batteries: 0 published
-## Summary
-- Total published: 0
-- Already exists: 15
+# Content Report — 2026-06-15 19:07
+## Solar Generators
+- ✅ [530] Solar Generator Watt Hours Explained: What It Really Me
+- ✅ [531] Best Solar Generator for Whole Home Backup 2026
+- ✅ [532] Solar Generator vs Powerwall: Which Is Right for You?
+Published this run: 3
+## EV Chargers
+- ✅ [533] How Much Does It Cost to Charge an EV at Home?
+- ✅ [534] Level 1 vs Level 2 vs DC Fast Charging: Complete Guide
+Published this run: 2
 
 ## Operations
-# Operations Report — 2026-06-15 12:55
+# Operations Report — 2026-06-15 19:07
 ## Summary
 - Checked: 11 URLs
 - Healthy: 11/11
 - Failed: 0
-- Avg response: 349ms
+- Avg response: 136ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 329ms |
+| ✅ Homepage | 200 | 264ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
