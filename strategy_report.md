@@ -18,7 +18,7 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 10/11 URLs (155ms)
+- Operations: ✅ 11/11 URLs (141ms)
 - SEO: ✅
 
 ## Weekly Coverage Report
@@ -28,7 +28,7 @@ None — all KPIs on track ✅
 
 ## Plan vs Realidad (semanal)
 - Productos: 100/100
-- URLs healthy: 10/11 (objetivo: 11/11)
+- URLs healthy: 11/11 (objetivo: 11/11)
 - Páginas indexadas objetivo Q1: 11 → 100/123
 - Clics afiliado objetivo Q1: 32 → 300/mes
 _(Indexación y clics requieren chequeo manual en GSC/Awin — agentes no tienen acceso API)_
