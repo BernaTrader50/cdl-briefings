@@ -1,9 +1,5 @@
 # CDL Strategy Report — 2026-06-16
 
-## 🚨 CRITICAL — ACTION REQUIRED
-- PRODUCT (needs review): - 🔧 Allpowers|R2500 → Awin base link (Allpowers homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Allpowers|S2000 Pro → Awin base link (Allpowers homepage, product not found in sitemap)
-
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
@@ -18,5 +14,5 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 12/12 URLs (108ms)
+- Operations: ✅ 12/12 URLs (98ms)
 - SEO: ✅
