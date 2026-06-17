@@ -1,5 +1,5 @@
 # CDL Daily Briefing — 2026-06-17
-Generated: 11:27 UTC
+Generated: 21:40 UTC
 
 ## Market Intel
 # Market Intelligence Report — 2026-06-17
@@ -22,7 +22,7 @@ None
 ## Broken Links (0)
 
 ## Content
-# Content Report — 2026-06-17 11:27
+# Content Report — 2026-06-17 21:40
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (exists)
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
@@ -34,16 +34,16 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-17 11:27
+# Operations Report — 2026-06-17 21:40
 ## Summary
 - Checked: 12 URLs
 - Healthy: 12/12
 - Failed: 0
-- Avg response: 250ms
+- Avg response: 145ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 408ms |
+| ✅ Homepage | 200 | 247ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
