@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-06-16
-Generated: 12:01 UTC
+# CDL Daily Briefing — 2026-06-17
+Generated: 05:00 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-06-16
+# Market Intelligence Report — 2026-06-17
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,19 +10,19 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-06-16
+# Product Validator Report — 2026-06-17
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 54/54 links OK
+- Verified: 55/55 links OK
 - Errors: 0
 - Timeouts: 0
 ## Broken Links (0)
 
 ## Content
-# Content Report — 2026-06-16 12:01
+# Content Report — 2026-06-17 05:00
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (exists)
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
@@ -34,16 +34,16 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-16 12:01
+# Operations Report — 2026-06-17 05:00
 ## Summary
 - Checked: 12 URLs
 - Healthy: 12/12
 - Failed: 0
-- Avg response: 132ms
+- Avg response: 179ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 250ms |
+| ✅ Homepage | 200 | 269ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
@@ -58,7 +58,7 @@ None
 - generator for chest freezer: 1 impressions, pos None
 
 ## Strategy
-# CDL Strategy Report — 2026-06-16
+# CDL Strategy Report — 2026-06-17
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
