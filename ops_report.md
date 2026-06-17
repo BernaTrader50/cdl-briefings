@@ -1,26 +1,26 @@
-# Operations Report — 2026-06-17 11:27
+# Operations Report — 2026-06-17 21:40
 
 ## Summary
 - Checked: 12 URLs
 - Healthy: 12/12
 - Failed: 0
-- Avg response: 250ms
+- Avg response: 145ms
 
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 408ms |
-| ✅ Calculator | 200 | 153ms |
-| ✅ Technical Analysis | 200 | 120ms |
-| ✅ Comparisons | 200 | 222ms |
-| ✅ Runtime DB | 200 | 149ms |
-| ✅ UPS DB | 200 | 418ms |
-| ✅ Blog | 200 | 123ms |
-| ✅ EV Chargers | 200 | 103ms |
-| ✅ Home Batteries | 200 | 140ms |
-| ✅ Backup Power | 200 | 582ms |
-| ✅ WP API | 200 | 489ms |
-| ✅ Sitemap | 200 | 93ms |
+| ✅ Homepage | 200 | 247ms |
+| ✅ Calculator | 200 | 164ms |
+| ✅ Technical Analysis | 200 | 184ms |
+| ✅ Comparisons | 200 | 73ms |
+| ✅ Runtime DB | 200 | 96ms |
+| ✅ UPS DB | 200 | 201ms |
+| ✅ Blog | 200 | 86ms |
+| ✅ EV Chargers | 200 | 100ms |
+| ✅ Home Batteries | 200 | 88ms |
+| ✅ Backup Power | 200 | 85ms |
+| ✅ WP API | 200 | 318ms |
+| ✅ Sitemap | 200 | 107ms |
 
 ## Failures
 None ✅
