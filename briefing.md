@@ -1,5 +1,5 @@
 # CDL Daily Briefing — 2026-06-18
-Generated: 04:46 UTC
+Generated: 11:15 UTC
 
 ## Market Intel
 # Market Intelligence Report — 2026-06-18
@@ -16,34 +16,34 @@ None
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 55/55 links OK
-- Errors: 0
+- Verified: 49/55 links OK
+- Errors: 6
 - Timeouts: 0
-## Broken Links (0)
+## Broken Links (6)
 
 ## Content
-# Content Report — 2026-06-18 04:46
+# Content Report — 2026-06-18 11:05
 ## Solar Generators
-- ⏭️  solar-generator-watt-hours-explained (exists)
+- ⏭️  solar-generator-watt-hours-explained (non-json response (len=0))
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
 - ⏭️  solar-generator-vs-powerwall-home (exists)
 Published this run: 0
 ## EV Chargers
 - ⏭️  how-much-cost-charge-ev-home (exists)
-- ⏭️  level-1-vs-level-2-vs-dc-fast-charging (exists)
+- ⏭️  level-1-vs-level-2-vs-dc-fast-charging (non-json response (len=0))
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-18 04:46
+# Operations Report — 2026-06-18 11:13
 ## Summary
 - Checked: 12 URLs
-- Healthy: 11/12
-- Failed: 1
-- Avg response: 95ms
+- Healthy: 9/12
+- Failed: 3
+- Avg response: 2797ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 207ms |
+| ✅ Homepage | 200 | 3777ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
@@ -59,13 +59,13 @@ None
 
 ## Strategy
 # CDL Strategy Report — 2026-06-18
+## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 EcoFlow|RIVER 2 → Awin base link (EcoFlow homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 EcoFlow|RIVER 2 Max → Awin base link (EcoFlow homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 EcoFlow|RIVER 2 Pro → Awin base link (EcoFlow homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 EcoFlow|RIVER 3 → Awin base link (EcoFlow homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 EcoFlow|DELTA 3 Classic → Awin base link (EcoFlow homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 2000 v2 → Awin base link (Jackery homepage, product not found in sitemap)
 ## KPI Status
 | KPI | Current | Target | Status |
-|---|---|---|---|
-| Products | 100 | 100 | ✅ |
-| Brands | 20 | 20 | ✅ |
-| Score completeness | 100% | 95% | ✅ |
-## Actions Required (0)
-None — all KPIs on track ✅
-## Agent Status
 
