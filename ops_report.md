@@ -1,29 +1,29 @@
-# Operations Report — 2026-06-17 21:40
+# Operations Report — 2026-06-18 04:46
 
 ## Summary
 - Checked: 12 URLs
-- Healthy: 12/12
-- Failed: 0
-- Avg response: 145ms
+- Healthy: 11/12
+- Failed: 1
+- Avg response: 95ms
 
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 247ms |
-| ✅ Calculator | 200 | 164ms |
-| ✅ Technical Analysis | 200 | 184ms |
-| ✅ Comparisons | 200 | 73ms |
-| ✅ Runtime DB | 200 | 96ms |
-| ✅ UPS DB | 200 | 201ms |
-| ✅ Blog | 200 | 86ms |
-| ✅ EV Chargers | 200 | 100ms |
-| ✅ Home Batteries | 200 | 88ms |
-| ✅ Backup Power | 200 | 85ms |
-| ✅ WP API | 200 | 318ms |
-| ✅ Sitemap | 200 | 107ms |
+| ✅ Homepage | 200 | 207ms |
+| ✅ Calculator | 200 | 157ms |
+| ✅ Technical Analysis | 200 | 121ms |
+| ✅ Comparisons | 200 | 89ms |
+| ✅ Runtime DB | 200 | 116ms |
+| ✅ UPS DB | 200 | 63ms |
+| ✅ Blog | 200 | 52ms |
+| ✅ EV Chargers | 200 | 58ms |
+| ✅ Home Batteries | 200 | 69ms |
+| ✅ Backup Power | 200 | 66ms |
+| ❌ WP API | 0 | HTTP Error 403: Forbidden |
+| ✅ Sitemap | 200 | 47ms |
 
 ## Failures
-None ✅
+- ❌ WP API: HTTP Error 403: Forbidden
 
 ## Indexability Check (robots meta)
 - ✅ Homepage: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
