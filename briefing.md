@@ -1,5 +1,5 @@
 # CDL Daily Briefing — 2026-06-19
-Generated: 08:57 UTC
+Generated: 11:12 UTC
 
 ## Market Intel
 # Market Intelligence Report — 2026-06-19
@@ -16,13 +16,13 @@ None
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 55/55 links OK
-- Errors: 0
+- Verified: 43/55 links OK
+- Errors: 12
 - Timeouts: 0
-## Broken Links (0)
+## Broken Links (12)
 
 ## Content
-# Content Report — 2026-06-19 08:57
+# Content Report — 2026-06-19 11:12
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (exists)
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
@@ -34,16 +34,16 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-19 08:57
+# Operations Report — 2026-06-19 11:12
 ## Summary
 - Checked: 12 URLs
 - Healthy: 12/12
 - Failed: 0
-- Avg response: 160ms
+- Avg response: 163ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 221ms |
+| ✅ Homepage | 200 | 264ms |
 
 ## SEO & Traffic
 # SEO & Traffic Report — 2026-06-15
@@ -59,13 +59,13 @@ None
 
 ## Strategy
 # CDL Strategy Report — 2026-06-19
-## KPI Status
-| KPI | Current | Target | Status |
-|---|---|---|---|
-| Products | 100 | 100 | ✅ |
-| Brands | 20 | 20 | ✅ |
-| Score completeness | 100% | 95% | ✅ |
-## Actions Required (0)
-None — all KPIs on track ✅
-## Agent Status
+## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 300 Plus → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 500 → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 1000 Plus → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 2000 Plus → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
+- PRODUCT: - ⚠️ CRITICAL: EcoFlow|DELTA 3 Classic → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
+- PRODUCT: - ⚠️ CRITICAL: EcoFlow|DELTA 3 Plus → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
+- PRODUCT: - ⚠️ CRITICAL: EcoFlow|DELTA 3 Max → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 
