@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-06-20
+# CDL Strategy Report — 2026-06-21
 
 ## KPI Status
 | KPI | Current | Target | Status |
@@ -14,5 +14,5 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 12/12 URLs (150ms)
+- Operations: ✅ 12/12 URLs (116ms)
 - SEO: ✅
