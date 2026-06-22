@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-06-21
-Generated: 10:25 UTC
+# CDL Daily Briefing — 2026-06-22
+Generated: 12:42 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-06-21
+# Market Intelligence Report — 2026-06-22
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,7 +10,7 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-06-21
+# Product Validator Report — 2026-06-22
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
@@ -22,7 +22,7 @@ None
 ## Broken Links (0)
 
 ## Content
-# Content Report — 2026-06-21 10:25
+# Content Report — 2026-06-22 12:42
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (exists)
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
@@ -34,31 +34,31 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-21 10:25
+# Operations Report — 2026-06-22 12:42
 ## Summary
 - Checked: 12 URLs
 - Healthy: 12/12
 - Failed: 0
-- Avg response: 116ms
+- Avg response: 126ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 173ms |
+| ✅ Homepage | 200 | 281ms |
 
 ## SEO & Traffic
-# SEO & Traffic Report — 2026-06-15
-## Signals Analyzed: 4
-## Autonomous Actions Taken (0)
-None — Claude API not available, manual review needed
-## New Content Signals → Content Agent (0)
-None
-## Top Keywords
-- solar generator for cpap: 19 impressions, pos 23.6
-- best solar generator for cpap camping: 2 impressions, pos None
-- generator for chest freezer: 1 impressions, pos None
+# SEO Report — 2026-06-22 (fuente: csv:2026-06-21)
+## Resumen
+- Keywords con datos: 12
+- Posts WP: 127
+- Acciones ejecutadas: 0
+- Señales nuevos contenidos: 0
+## Acciones ejecutadas
+- Ninguna
+## Nuevos contenidos → Content Agent
+- Ninguna
 
 ## Strategy
-# CDL Strategy Report — 2026-06-21
+# CDL Strategy Report — 2026-06-22
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
