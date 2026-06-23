@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-06-22
+# CDL Strategy Report — 2026-06-23
 
 ## KPI Status
 | KPI | Current | Target | Status |
@@ -14,17 +14,5 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 12/12 URLs (126ms)
+- Operations: ✅ 12/12 URLs (150ms)
 - SEO: ✅
-
-## Weekly Coverage Report
-- Products: 100 | Brands: 20
-- Score completeness: 100%
-- Gap to target: 0 products
-
-## Plan vs Realidad (semanal)
-- Productos: 100/100
-- URLs healthy: 12/12 (objetivo: 12/12)
-- Páginas indexadas objetivo Q1: 11 → 100/123
-- Clics afiliado objetivo Q1: 32 → 300/mes
-_(Indexación y clics requieren chequeo manual en GSC/Awin — agentes no tienen acceso API)_
