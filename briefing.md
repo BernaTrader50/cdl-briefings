@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-06-23
-Generated: 10:27 UTC
+# CDL Daily Briefing — 2026-06-24
+Generated: 10:13 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-06-23
+# Market Intelligence Report — 2026-06-24
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,19 +10,19 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-06-23
+# Product Validator Report — 2026-06-24
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 55/55 links OK
-- Errors: 0
+- Verified: 53/55 links OK
+- Errors: 2
 - Timeouts: 0
-## Broken Links (0)
+## Broken Links (2)
 
 ## Content
-# Content Report — 2026-06-23 10:27
+# Content Report — 2026-06-24 10:13
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (exists)
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
@@ -34,16 +34,16 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-06-23 10:27
+# Operations Report — 2026-06-24 10:13
 ## Summary
 - Checked: 12 URLs
 - Healthy: 12/12
 - Failed: 0
-- Avg response: 150ms
+- Avg response: 196ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 369ms |
+| ✅ Homepage | 200 | 329ms |
 
 ## SEO & Traffic
 # SEO Report — 2026-06-22 (fuente: csv:2026-06-21)
@@ -58,14 +58,14 @@ Published this run: 0
 - Ninguna
 
 ## Strategy
-# CDL Strategy Report — 2026-06-23
+# CDL Strategy Report — 2026-06-24
+## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 500 v2 → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 1000 v2 → Awin base link (Jackery homepage, product not found in sitemap)
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
 | Products | 100 | 100 | ✅ |
 | Brands | 20 | 20 | ✅ |
 | Score completeness | 100% | 95% | ✅ |
-## Actions Required (0)
-None — all KPIs on track ✅
-## Agent Status
 
