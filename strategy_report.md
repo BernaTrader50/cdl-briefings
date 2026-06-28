@@ -1,4 +1,9 @@
-# CDL Strategy Report — 2026-06-27
+# CDL Strategy Report — 2026-06-28
+
+## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 700 Plus → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Jackery|Explorer 1000 v2 → Awin base link (Jackery homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Allpowers|R3500 → Awin base link (Allpowers homepage, product not found in sitemap)
 
 ## KPI Status
 | KPI | Current | Target | Status |
@@ -14,5 +19,5 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 12/12 URLs (135ms)
+- Operations: ✅ 12/12 URLs (182ms)
 - SEO: ✅
