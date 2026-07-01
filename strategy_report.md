@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-06-30
+# CDL Strategy Report — 2026-07-01
 
 ## KPI Status
 | KPI | Current | Target | Status |
@@ -14,5 +14,10 @@ None — all KPIs on track ✅
 - Market Intel: ✅
 - Product: ✅
 - Content: ✅
-- Operations: ✅ 12/12 URLs (153ms)
+- Operations: ✅ 12/12 URLs (112ms)
 - SEO: ✅
+
+## Revisión Mensual — Plan de Negocio
+Pregunta clave Q1: ¿El sistema produce primeras ventas con indexación resuelta?
+Objetivo ingresos Q1: $100-400 total trimestre
+_(Revisar manualmente: Awin/Impact dashboards para ingresos reales)_
