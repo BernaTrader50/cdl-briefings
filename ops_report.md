@@ -1,32 +1,41 @@
-# Operations Report — 2026-07-03 09:49
+# Operations Report — 2026-07-04 09:13
 
 ## Summary
 - Checked: 12 URLs
-- Healthy: 12/12
-- Failed: 0
-- Avg response: 374ms
+- Healthy: 2/12
+- Failed: 10
+- Avg response: 221ms
 
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
-| ✅ Homepage | 200 | 386ms |
-| ✅ Calculator | 200 | 148ms |
-| ✅ Technical Analysis | 200 | 103ms |
-| ✅ Comparisons | 200 | 177ms |
-| ✅ Runtime DB | 200 | 196ms |
-| ✅ UPS DB | 200 | 105ms |
-| ✅ Blog | 200 | 278ms |
-| ✅ EV Chargers | 200 | 94ms |
-| ✅ Home Batteries | 200 | 146ms |
-| ✅ Backup Power | 200 | 109ms |
-| ✅ WP API | 200 | 2659ms |
-| ✅ Sitemap | 200 | 88ms |
+| ❌ Homepage | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Calculator | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Technical Analysis | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Comparisons | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Runtime DB | 0 | HTTP Error 500: Internal Server Error |
+| ❌ UPS DB | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Blog | 0 | HTTP Error 500: Internal Server Error |
+| ❌ EV Chargers | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Home Batteries | 0 | HTTP Error 500: Internal Server Error |
+| ❌ Backup Power | 0 | HTTP Error 500: Internal Server Error |
+| ✅ WP API | 200 | 393ms |
+| ✅ Sitemap | 200 | 50ms |
 
 ## Failures
-None ✅
+- ❌ Homepage: HTTP Error 500: Internal Server Error
+- ❌ Calculator: HTTP Error 500: Internal Server Error
+- ❌ Technical Analysis: HTTP Error 500: Internal Server Error
+- ❌ Comparisons: HTTP Error 500: Internal Server Error
+- ❌ Runtime DB: HTTP Error 500: Internal Server Error
+- ❌ UPS DB: HTTP Error 500: Internal Server Error
+- ❌ Blog: HTTP Error 500: Internal Server Error
+- ❌ EV Chargers: HTTP Error 500: Internal Server Error
+- ❌ Home Batteries: HTTP Error 500: Internal Server Error
+- ❌ Backup Power: HTTP Error 500: Internal Server Error
 
 ## Indexability Check (robots meta)
-- ✅ Homepage: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
-- ✅ Calculator: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
-- ✅ WP Article (CPAP): index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
-- ✅ WP Article (DELTA2Max): index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+- ✅ Homepage: error
+- ✅ Calculator: error
+- ✅ WP Article (CPAP): error
+- ✅ WP Article (DELTA2Max): error
