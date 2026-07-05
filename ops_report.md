@@ -1,10 +1,10 @@
-# Operations Report — 2026-07-04 09:13
+# Operations Report — 2026-07-05 09:34
 
 ## Summary
 - Checked: 12 URLs
 - Healthy: 2/12
 - Failed: 10
-- Avg response: 221ms
+- Avg response: 198ms
 
 ## Health Check
 | URL | Status | Response |
@@ -19,8 +19,8 @@
 | ❌ EV Chargers | 0 | HTTP Error 500: Internal Server Error |
 | ❌ Home Batteries | 0 | HTTP Error 500: Internal Server Error |
 | ❌ Backup Power | 0 | HTTP Error 500: Internal Server Error |
-| ✅ WP API | 200 | 393ms |
-| ✅ Sitemap | 200 | 50ms |
+| ✅ WP API | 200 | 357ms |
+| ✅ Sitemap | 200 | 40ms |
 
 ## Failures
 - ❌ Homepage: HTTP Error 500: Internal Server Error
