@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-07-05
-Generated: 09:34 UTC
+# CDL Daily Briefing — 2026-07-06
+Generated: 11:21 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-07-05
+# Market Intelligence Report — 2026-07-06
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,7 +10,7 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-07-05
+# Product Validator Report — 2026-07-06
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
@@ -22,7 +22,7 @@ None
 ## Broken Links (0)
 
 ## Content
-# Content Report — 2026-07-05 09:34
+# Content Report — 2026-07-06 11:21
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (exists)
 - ⏭️  best-solar-generator-whole-home-backup-2026 (exists)
@@ -34,19 +34,19 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# Operations Report — 2026-07-05 09:34
+# Operations Report — 2026-07-06 11:21
 ## Summary
 - Checked: 12 URLs
 - Healthy: 2/12
 - Failed: 10
-- Avg response: 198ms
+- Avg response: 147ms
 ## Health Check
 | URL | Status | Response |
 |---|---|---|
 | ❌ Homepage | 0 | HTTP Error 500: Internal Server Error |
 
 ## SEO & Traffic
-# SEO Report — 2026-06-29 (fuente: csv:2026-06-21)
+# SEO Report — 2026-07-06 (fuente: csv:2026-06-21)
 ## Resumen
 - Keywords con datos: 12
 - Posts WP: 127
@@ -58,7 +58,7 @@ Published this run: 0
 - Ninguna
 
 ## Strategy
-# CDL Strategy Report — 2026-07-05
+# CDL Strategy Report — 2026-07-06
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
