@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-07-11
+# CDL Strategy Report — 2026-07-12
 
 ## KPI Status
 | KPI | Current | Target | Status |
