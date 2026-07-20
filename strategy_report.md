@@ -1,12 +1,6 @@
-# CDL Strategy Report — 2026-07-19
+# CDL Strategy Report — 2026-07-20
 
 ## 🚨 CRITICAL — ACTION REQUIRED
-- PRODUCT (needs review): - 🔧 Allpowers|R600 → Awin base link (Allpowers homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Allpowers|R1500 LITE → Awin base link (Allpowers homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Allpowers|S2000 Pro → Awin base link (Allpowers homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Allpowers|R2500 → Awin base link (Allpowers homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Allpowers|R4000 → Awin base link (Allpowers homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Allpowers|R3500 → Awin base link (Allpowers homepage, product not found in sitemap)
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 
 ## KPI Status
@@ -25,3 +19,15 @@ None — all KPIs on track ✅
 - Content: ✅
 - Operations: ✅ 0/0 URLs (0ms)
 - SEO: ✅
+
+## Weekly Coverage Report
+- Products: 100 | Brands: 20
+- Score completeness: 100%
+- Gap to target: 0 products
+
+## Plan vs Realidad (semanal)
+- Productos: 100/100
+- URLs healthy: 0/0 (objetivo: 0/0)
+- Páginas indexadas objetivo Q1: 11 → 100/123
+- Clics afiliado objetivo Q1: 32 → 300/mes
+_(Indexación y clics requieren chequeo manual en GSC/Awin — agentes no tienen acceso API)_
