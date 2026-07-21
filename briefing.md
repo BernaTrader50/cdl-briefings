@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-07-20
-Generated: 09:49 UTC
+# CDL Daily Briefing — 2026-07-21
+Generated: 09:22 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-07-20
+# Market Intelligence Report — 2026-07-21
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,19 +10,19 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-07-20
+# Product Validator Report — 2026-07-21
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 54/55 links OK
-- Errors: 1
+- Verified: 53/55 links OK
+- Errors: 2
 - Timeouts: 0
-## Broken Links (1)
+## Broken Links (2)
 
 ## Content
-# Content Report — 2026-07-20 09:49
+# Content Report — 2026-07-21 09:22
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (non-json response (len=0))
 - ⏭️  best-solar-generator-whole-home-backup-2026 (non-json response (len=0))
@@ -34,7 +34,7 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# CDL Ops Report — 2026-07-20 09:49
+# CDL Ops Report — 2026-07-21 09:22
 ## Summary
 - HTTP Checks: 16/16 OK
 - Canonical: 3/3 OK
@@ -58,14 +58,14 @@ Published this run: 0
 - [19 imp, pos 38.47] Solar Generator For Cpap: Complete 2026 Guide
 
 ## Strategy
-# CDL Strategy Report — 2026-07-20
+# CDL Strategy Report — 2026-07-21
 ## 🚨 CRITICAL — ACTION REQUIRED
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
+- PRODUCT: - ⚠️ CRITICAL: EcoFlow|DELTA 2 → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
 | Products | 100 | 100 | ✅ |
 | Brands | 20 | 20 | ✅ |
 | Score completeness | 100% | 95% | ✅ |
-## Actions Required (0)
 
