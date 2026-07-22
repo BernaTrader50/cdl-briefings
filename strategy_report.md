@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-07-21
+# CDL Strategy Report — 2026-07-22
 
 ## 🚨 CRITICAL — ACTION REQUIRED
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
