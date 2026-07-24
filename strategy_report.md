@@ -1,8 +1,9 @@
-# CDL Strategy Report — 2026-07-23
+# CDL Strategy Report — 2026-07-24
 
 ## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 Bluetti|EB70S → Awin base link (Bluetti homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Bluetti|AC200L → Awin base link (Bluetti homepage, product not found in sitemap)
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
-- PRODUCT: - ⚠️ CRITICAL: EcoFlow|DELTA 2 → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 
 ## KPI Status
 | KPI | Current | Target | Status |
