@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-07-25
-Generated: 08:54 UTC
+# CDL Daily Briefing — 2026-07-26
+Generated: 09:07 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-07-25
+# Market Intelligence Report — 2026-07-26
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,19 +10,19 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-07-25
+# Product Validator Report — 2026-07-26
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 54/55 links OK
-- Errors: 1
+- Verified: 49/55 links OK
+- Errors: 6
 - Timeouts: 0
-## Broken Links (1)
+## Broken Links (6)
 
 ## Content
-# Content Report — 2026-07-25 08:54
+# Content Report — 2026-07-26 09:07
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (non-json response (len=0))
 - ⏭️  best-solar-generator-whole-home-backup-2026 (non-json response (len=0))
@@ -34,7 +34,7 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# CDL Ops Report — 2026-07-25 08:54
+# CDL Ops Report — 2026-07-26 09:07
 ## Summary
 - HTTP Checks: 16/16 OK
 - Canonical: 3/3 OK
@@ -58,14 +58,14 @@ Published this run: 0
 - [19 imp, pos 38.47] Solar Generator For Cpap: Complete 2026 Guide
 
 ## Strategy
-# CDL Strategy Report — 2026-07-25
+# CDL Strategy Report — 2026-07-26
 ## 🚨 CRITICAL — ACTION REQUIRED
+- PRODUCT (needs review): - 🔧 Bluetti|EB3A → Awin base link (Bluetti homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Bluetti|EB70S → Awin base link (Bluetti homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Bluetti|AC60 → Awin base link (Bluetti homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Bluetti|AC180 → Awin base link (Bluetti homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Bluetti|AC500 → Awin base link (Bluetti homepage, product not found in sitemap)
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 ## KPI Status
 | KPI | Current | Target | Status |
-|---|---|---|---|
-| Products | 100 | 100 | ✅ |
-| Brands | 20 | 20 | ✅ |
-| Score completeness | 100% | 95% | ✅ |
-## Actions Required (0)
 
