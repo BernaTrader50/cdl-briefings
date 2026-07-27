@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-07-26
-Generated: 09:07 UTC
+# CDL Daily Briefing — 2026-07-27
+Generated: 10:32 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-07-26
+# Market Intelligence Report — 2026-07-27
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,19 +10,19 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-07-26
+# Product Validator Report — 2026-07-27
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
 - Score completeness: 100/100 (100%)
 ## Affiliate Links
-- Verified: 49/55 links OK
-- Errors: 6
+- Verified: 53/55 links OK
+- Errors: 2
 - Timeouts: 0
-## Broken Links (6)
+## Broken Links (2)
 
 ## Content
-# Content Report — 2026-07-26 09:07
+# Content Report — 2026-07-27 10:31
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (non-json response (len=0))
 - ⏭️  best-solar-generator-whole-home-backup-2026 (non-json response (len=0))
@@ -34,7 +34,7 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# CDL Ops Report — 2026-07-26 09:07
+# CDL Ops Report — 2026-07-27 10:31
 ## Summary
 - HTTP Checks: 16/16 OK
 - Canonical: 3/3 OK
@@ -46,7 +46,7 @@ Published this run: 0
 |-------|-----------|--------|----------|-----|
 
 ## SEO & Traffic
-# SEO Report — 2026-07-20 (fuente: csv:2026-06-21)
+# SEO Report — 2026-07-27 (fuente: csv:2026-06-21)
 ## Resumen
 - Keywords con datos: 12
 - Posts WP: 0
@@ -58,14 +58,14 @@ Published this run: 0
 - [19 imp, pos 38.47] Solar Generator For Cpap: Complete 2026 Guide
 
 ## Strategy
-# CDL Strategy Report — 2026-07-26
+# CDL Strategy Report — 2026-07-27
 ## 🚨 CRITICAL — ACTION REQUIRED
-- PRODUCT (needs review): - 🔧 Bluetti|EB3A → Awin base link (Bluetti homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Bluetti|EB70S → Awin base link (Bluetti homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Bluetti|AC60 → Awin base link (Bluetti homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Bluetti|AC180 → Awin base link (Bluetti homepage, product not found in sitemap)
-- PRODUCT (needs review): - 🔧 Bluetti|AC500 → Awin base link (Bluetti homepage, product not found in sitemap)
+- PRODUCT (needs review): - 🔧 Allpowers|R600 → Awin base link (Allpowers homepage, product not found in sitemap)
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 ## KPI Status
 | KPI | Current | Target | Status |
+|---|---|---|---|
+| Products | 100 | 100 | ✅ |
+| Brands | 20 | 20 | ✅ |
+| Score completeness | 100% | 95% | ✅ |
 
