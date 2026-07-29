@@ -1,4 +1,4 @@
-# CDL Ops Report — 2026-07-28 09:30
+# CDL Ops Report — 2026-07-29 09:32
 
 ## Summary
 - HTTP Checks: 16/16 OK
@@ -10,22 +10,22 @@
 ## HTTP Checks
 | Check | Severidad | Código | Esperado | ms |
 |-------|-----------|--------|----------|-----|
-| ✅ Homepage | critical | 200 | 200 | 199ms |
-| ✅ Sitemap | critical | 200 | 200 | 40ms |
-| ✅ Robots | critical | 200 | 200 | 40ms |
-| ✅ WP API | critical | 200 | 200 | 2117ms |
-| ✅ Solar lab | minor | 200 | 200 | 81ms |
-| ✅ EV Chargers | minor | 200 | 200 | 115ms |
-| ✅ Home Batteries | minor | 200 | 200 | 106ms |
-| ✅ Backup Power | minor | 200 | 200 | 162ms |
-| ✅ Comparisons | minor | 200 | 200 | 53ms |
-| ✅ Calculator | minor | 200 | 200 | 57ms |
-| ✅ WP Article 1 | minor | 200 | 200 | 714ms |
-| ✅ WP Article 2 | minor | 200 | 200 | 812ms |
-| ✅ Sin slash 301 | minor | 301 | 301 | 35ms |
-| ✅ www redirect | minor | 301 | 301 | 89ms |
-| ✅ Geo EcoFlow | minor | 302 | 302 | 34ms |
-| ✅ Geo Jackery | minor | 302 | 302 | 38ms |
+| ✅ Homepage | critical | 200 | 200 | 105ms |
+| ✅ Sitemap | critical | 200 | 200 | 146ms |
+| ✅ Robots | critical | 200 | 200 | 73ms |
+| ✅ WP API | critical | 200 | 200 | 5030ms |
+| ✅ Solar lab | minor | 200 | 200 | 195ms |
+| ✅ EV Chargers | minor | 200 | 200 | 182ms |
+| ✅ Home Batteries | minor | 200 | 200 | 221ms |
+| ✅ Backup Power | minor | 200 | 200 | 201ms |
+| ✅ Comparisons | minor | 200 | 200 | 105ms |
+| ✅ Calculator | minor | 200 | 200 | 138ms |
+| ✅ WP Article 1 | minor | 200 | 200 | 1457ms |
+| ✅ WP Article 2 | minor | 200 | 200 | 1171ms |
+| ✅ Sin slash 301 | minor | 301 | 301 | 130ms |
+| ✅ www redirect | minor | 301 | 301 | 250ms |
+| ✅ Geo EcoFlow | minor | 302 | 302 | 130ms |
+| ✅ Geo Jackery | minor | 302 | 302 | 73ms |
 
 ## Canonical
 - ✅ Homepage canonical: https://clickdecisionlab.com/
