@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-07-30
+# CDL Strategy Report — 2026-07-31
 
 ## 🚨 CRITICAL — ACTION REQUIRED
 - PRODUCT (needs review): - 🔧 Allpowers|R600 → Awin base link (Allpowers homepage, product not found in sitemap)
