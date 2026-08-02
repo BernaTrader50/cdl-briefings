@@ -1,4 +1,4 @@
-# CDL Strategy Report — 2026-08-01
+# CDL Strategy Report — 2026-08-02
 
 ## 🚨 CRITICAL — ACTION REQUIRED
 - PRODUCT (needs review): - 🔧 Allpowers|R600 → Awin base link (Allpowers homepage, product not found in sitemap)
@@ -20,8 +20,3 @@ None — all KPIs on track ✅
 - Content: ✅
 - Operations: ✅ 0/0 URLs (0ms)
 - SEO: ✅
-
-## Revisión Mensual — Plan de Negocio
-Pregunta clave Q1: ¿El sistema produce primeras ventas con indexación resuelta?
-Objetivo ingresos Q1: $100-400 total trimestre
-_(Revisar manualmente: Awin/Impact dashboards para ingresos reales)_
