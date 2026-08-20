@@ -1,7 +1,6 @@
-# CDL Strategy Report — 2026-08-19
+# CDL Strategy Report — 2026-08-20
 
 ## 🚨 CRITICAL — ACTION REQUIRED
-- PRODUCT (needs review): - 🔧 Allpowers|R600 → Awin base link (Allpowers homepage, product not found in sitemap)
 - PRODUCT: - ⚠️ CRITICAL: EcoFlow|RIVER 2 Pro → brand not in AWIN_BRANDS, manual fix required (NEVER Amazon)
 
 ## KPI Status
