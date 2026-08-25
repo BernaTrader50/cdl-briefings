@@ -1,4 +1,4 @@
-# CDL Ops Report — 2026-08-24 07:49
+# CDL Ops Report — 2026-08-25 07:35
 
 ## Summary
 - HTTP Checks: 16/16 OK
@@ -10,21 +10,21 @@
 ## HTTP Checks
 | Check | Severidad | Código | Esperado | ms |
 |-------|-----------|--------|----------|-----|
-| ✅ Homepage | critical | 200 | 200 | 168ms |
-| ✅ Sitemap | critical | 200 | 200 | 48ms |
+| ✅ Homepage | critical | 200 | 200 | 174ms |
+| ✅ Sitemap | critical | 200 | 200 | 63ms |
 | ✅ Robots | critical | 200 | 200 | 64ms |
-| ✅ WP API | critical | 200 | 200 | 2191ms |
-| ✅ Solar lab | minor | 200 | 200 | 92ms |
-| ✅ EV Chargers | minor | 200 | 200 | 72ms |
-| ✅ Home Batteries | minor | 200 | 200 | 90ms |
-| ✅ Backup Power | minor | 200 | 200 | 90ms |
-| ✅ Comparisons | minor | 200 | 200 | 80ms |
-| ✅ Calculator | minor | 200 | 200 | 67ms |
-| ✅ WP Article 1 | minor | 200 | 200 | 695ms |
-| ✅ WP Article 2 | minor | 200 | 200 | 620ms |
-| ✅ Sin slash 301 | minor | 301 | 301 | 81ms |
-| ✅ www redirect | minor | 301 | 301 | 132ms |
-| ✅ Geo EcoFlow | minor | 302 | 302 | 65ms |
+| ✅ WP API | critical | 200 | 200 | 1908ms |
+| ✅ Solar lab | minor | 200 | 200 | 88ms |
+| ✅ EV Chargers | minor | 200 | 200 | 99ms |
+| ✅ Home Batteries | minor | 200 | 200 | 104ms |
+| ✅ Backup Power | minor | 200 | 200 | 98ms |
+| ✅ Comparisons | minor | 200 | 200 | 93ms |
+| ✅ Calculator | minor | 200 | 200 | 61ms |
+| ✅ WP Article 1 | minor | 200 | 200 | 700ms |
+| ✅ WP Article 2 | minor | 200 | 200 | 645ms |
+| ✅ Sin slash 301 | minor | 301 | 301 | 77ms |
+| ✅ www redirect | minor | 301 | 301 | 113ms |
+| ✅ Geo EcoFlow | minor | 302 | 302 | 55ms |
 | ✅ Geo Jackery | minor | 302 | 302 | 60ms |
 
 ## Canonical
