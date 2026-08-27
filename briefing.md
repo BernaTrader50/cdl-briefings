@@ -1,8 +1,8 @@
-# CDL Daily Briefing — 2026-08-26
-Generated: 07:37 UTC
+# CDL Daily Briefing — 2026-08-27
+Generated: 17:58 UTC
 
 ## Market Intel
-# Market Intelligence Report — 2026-08-26
+# Market Intelligence Report — 2026-08-27
 ## Products Monitored: 9
 ## Price Changes Detected (≥10%): 0
 None
@@ -10,7 +10,7 @@ None
 None
 
 ## Product
-# Product Validator Report — 2026-08-26
+# Product Validator Report — 2026-08-27
 ## Dataset
 - Total products: 100 across 20 brands
 - Valid records: 100/100
@@ -22,7 +22,7 @@ None
 ## Broken Links (0)
 
 ## Content
-# Content Report — 2026-08-26 07:36
+# Content Report — 2026-08-27 17:57
 ## Solar Generators
 - ⏭️  solar-generator-watt-hours-explained (non-json response (len=0))
 - ⏭️  best-solar-generator-whole-home-backup-2026 (non-json response (len=0))
@@ -34,12 +34,12 @@ Published this run: 0
 Published this run: 0
 
 ## Operations
-# CDL Ops Report — 2026-08-26 07:36
+# CDL Ops Report — 2026-08-27 17:58
 ## Summary
-- HTTP Checks: 15/16 OK
+- HTTP Checks: 16/16 OK
 - Canonical: 3/3 OK
 - Sitemap: 129 URLs (129 unicas)
-- Status: ⚠️ 1 fallo(s) detectado(s)
+- Status: ✅ ALL OK
 - Email enviado esta ejecucion: no
 ## HTTP Checks
 | Check | Severidad | Código | Esperado | ms |
@@ -58,7 +58,7 @@ Published this run: 0
 - [19 imp, pos 38.47] Solar Generator For Cpap: Complete 2026 Guide
 
 ## Strategy
-# CDL Strategy Report — 2026-08-26
+# CDL Strategy Report — 2026-08-27
 ## KPI Status
 | KPI | Current | Target | Status |
 |---|---|---|---|
